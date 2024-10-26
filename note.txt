@@ -1,0 +1,4 @@
+// init 
+go mod init github.com/baosphoa0403/giabao0403Go
+
+git remote add origin https://github.com/baosphoa0403/giabao0403Go
